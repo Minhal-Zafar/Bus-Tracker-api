@@ -1,0 +1,20 @@
+{
+  "name": "i190510_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minhal Zafar",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.2",
+    "node": "^19.0.1",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20"
+  }
+}
